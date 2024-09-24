@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/vivsoftorg/enbuild/backend/ml/dao"
+	"github.com/junaid18183/ml_microservice_sample/dao"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
